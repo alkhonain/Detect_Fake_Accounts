@@ -43,7 +43,7 @@ To choose the best answer we apply for different model and the table below shows
 |Decision Tree  Classifier|0.91|0.89|0.933|0.911|
 |Random Forest Classifier |0.916|0.916|0.916|0.916|
 
-and from the table above its shows that the Logistic Regression is the best mocel that fit this [dataset]() and it's greate reslut
+and from the table above its shows that the Logistic Regression is the best mocel that fit this [dataset](https://github.com/alkhonain/Detect_Fake_Accounts/tree/main/Dataset) and it's greate reslut. you can check the result form the [notebook](https://github.com/alkhonain/Detect_Fake_Accounts/blob/main/Notebook.ipynb)
 
 
 ## Tools
@@ -53,4 +53,4 @@ and from the table above its shows that the Logistic Regression is the best moce
 - Matplotlib, Seaborn for plotting
 
 # Communication
-slides and visuals presented are avalible [here]() that present the work nicely
+slides and visuals presented are avalible [here](https://github.com/alkhonain/Detect_Fake_Accounts/blob/main/Presentation.pptx) that present the work nicely
