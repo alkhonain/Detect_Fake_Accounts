@@ -51,3 +51,6 @@ and from the table above its shows that the Logistic Regression is the best moce
 - Numpy and Pandas for data manipulation
 - Scikit-learn for modeling
 - Matplotlib, Seaborn for plotting
+
+# Communication
+slides and visuals presented are avalible [here]() that present the work nicely
